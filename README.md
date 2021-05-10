@@ -17,11 +17,10 @@ You can click the Preview link to take a look at your changes.
 
 ---
 ### Follow Me On
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Follow-black?color=0072b1&labelColor=0072b1&logo=linkedin&logoColor=ffffff)][linkedin]
-[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=171515&labelColor=171515&logo=github&logoColor=ffffff)][github]
+[![LinkedIn](https://img.shields.io/badge/%20-Follow-black?color=0072b1&labelColor=0072b1&logo=linkedin&logoColor=ffffff)][linkedin]
 [![Facebook](https://img.shields.io/badge/%20-Follow-black?color=1778F2&labelColor=1778F2&logo=facebook&logoColor=ffffff)][facebook] 
-[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=C32AA3&labelColor=C32AA3&logo=instagram&logoColor=ffffff)][instagram]
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=1BA2EF&labelColor=1BA2EF&logo=twitter&logoColor=ffffff)][twitter]
+[![Instagram](https://img.shields.io/badge/%20-Follow-black?color=C32AA3&labelColor=C32AA3&logo=instagram&logoColor=ffffff)][instagram]
+[![Twitter](https://img.shields.io/badge/%20-Follow-black?color=1BA2EF&labelColor=1BA2EF&logo=twitter&logoColor=ffffff)][twitter]
 
 
 

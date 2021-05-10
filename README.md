@@ -1,11 +1,8 @@
 <h1>👋 Hi, I’m Siam Parvez.</h1>
 
 - 👀 I’m interested in new and creative designs.
-- 
 - 🌱 I’m currently learning from other experienced web and graphics designers.
-- 
 - 💞️ I’m looking to collaborate on awesome projects!
--
 - 📫 Reach me - siamparvez44@gmail.com
 
 <!---

@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Siam Parvez.</h1>
+<h2>👋 Hi, I’m Siam Parvez.</h2>
 
 - 👀 I’m interested in new and creative designs.
 - 🌱 I’m currently learning from other experienced web and graphics designers.

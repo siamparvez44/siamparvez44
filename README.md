@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m [Siam Parvez].
 
 - 👀 I’m interested in new and creative designs.
-- 🌱 I’m currently learning from other experienced web and graphics designers.
+- 🌱 I’m currently working as UI/UX Designer at A-PLUS Community Solutions, Inc.
 - 💞️ I’m looking to collaborate on awesome projects!
 - 📫 Reach me - siamparvez44@gmail.com
 

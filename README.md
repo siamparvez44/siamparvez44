@@ -7,21 +7,23 @@
 
 ### My Languages and Tools:
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD23F?logo=python&style=for-the-badge&logoColor=black)
 ![](https://img.shields.io/badge/PHP-4F5B93?logo=php&style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/SQL_Server-BE1E20?logo=microsoft-sql-server&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/SQL%20Server-BE1E20?logo=microsoft-sql-server&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/Git_SCM-F05033?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-24AAF3?logo=visual-studio-code&style=for-the-badge&logoColor=white)
+![](https://img.shields.io/badge/github-171515.svg?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/VS%20Code-24AAF3?logo=visual-studio-code&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)
-![](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20XD-460137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![](https://img.shields.io/badge/Figma-09CF83?style=for-the-badge&logo=git&logoColor=white)
 <br />
 ---
 

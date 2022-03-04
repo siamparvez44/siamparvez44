@@ -23,7 +23,12 @@
 ![](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20XD-460137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![](https://img.shields.io/badge/Figma-09CF83?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Figma-09CF83?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 <br />
 ---
 

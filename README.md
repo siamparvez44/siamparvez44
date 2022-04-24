@@ -30,11 +30,13 @@
 ![](https://img.shields.io/badge/Firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 <br />
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvez44"/>
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvez44&theme=react"/>
+
+---
+
 <img src="https://github-readme-stats.vercel.app/api?username=siamparvez44&show_icons=true&theme=react"/>
 
 ---

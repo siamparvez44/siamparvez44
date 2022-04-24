@@ -35,7 +35,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvez44"/>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=siamparvez44&show_icons=true&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api?username=siamparvez44&show_icons=true&theme=react"/>
 
 ---
 

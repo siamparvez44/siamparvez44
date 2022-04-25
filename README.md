@@ -45,14 +45,18 @@
 
   <div class="row g-4 align-items-center">
   <div class="col-md-6">
-    <img class="w-100" src="https://github-readme-stats.vercel.app/api?username=siamparvez44&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="javascript:void(0);">
+    <img class="w-100" src="https://github-readme-stats.vercel.app/api?username=siamparvez44&show_icons=true&theme=react&hide_border=true" />
+  </a>
   </div>
   <div class="col-md-6">
     <img class="w-100" src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvez44&theme=react&border=61dafb&hide_border=true" alt="siamparvez44"/>
   </div>
-
+  <div class="col-md-6">
+    <img class="w-100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvez44&theme=react&hide_border=true"/>
   </div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvez44&theme=react&hide_border=true"/>
+  </div>
+ 
 
   ---
 

@@ -1,9 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=siamparvez44.siamparvez44">
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+
+<h3 align="center">
+  Welcome to Siam Parvez's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=25AEF3&vCenter=true&size=22"></a>
 </p>
-
-### 👋 Hi, I’m [Siam Parvez]. 
 
 - 👀 I’m interested in new and creative application development.
 - 🌱 I’m currently working at A-Plus Community Solutions, Inc.
@@ -39,18 +43,13 @@
 ---
 
 <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvez44&theme=react&border=61dafb&hide_border=true" alt="siamparvez44" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=siamparvez44&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-</div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvez44&theme=react&border=61dafb&hide_border=true" alt="siamparvez44"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvez44&theme=react&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siamparvez44&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvez44&theme=react&hide_border=true"/>
 
 ---
-
 
 ### Get In Contact
 [![Gmail](https://img.shields.io/badge/%20-Gmail-black?color=DD4B3F&labelColor=DD4B3F&logo=gmail&logoColor=ffffff)][gmail]
@@ -59,9 +58,6 @@
 [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-black?color=0072b1&labelColor=0072b1&logo=linkedin&logoColor=ffffff)][linkedin]
 [![Instagram](https://img.shields.io/badge/%20-Instagram-black?color=C32AA3&labelColor=C32AA3&logo=instagram&logoColor=ffffff)][instagram]
 
-
-
-[Siam Parvez]: https://www.linkedin.com/in/siamparvez44
 [instagram]: https://www.instagram.com/siamparvez44
 [linkedin]: https://www.linkedin.com/in/siamparvez44
 [github]: https://github.com/siamparvez44

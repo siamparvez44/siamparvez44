@@ -4,15 +4,23 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=25AEF3&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=25AEF3&vCenter=true&size=25">
 </p>
 
-- 👀 I’m interested in new and creative application development.
-- 🌱 I’m currently working at A-Plus Community Solutions, Inc.
-- 💞️ I’m looking to collaborate on awesome projects!
-- 📫 Contact me - siamparvez44@gmail.com
+<div align="center">
+  < 👀 I’m interested in new and creative application development. /><br>
+  < 🌱 I’m currently working at A-Plus Community Solutions, Inc. /><br>
+  < 💞️ I’m looking to collaborate on awesome projects! /><br>
+  < 📫 Contact me - siamparvez44@gmail.com />
+<br>
+<br>
 
-### My Languages and Tools:
+---
+<br>
+<div align="center">
+
+## My Languages and Tools
+<br>
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,25 +44,42 @@
 ![](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Firebase-ffa611?style=for-the-badge&logo=firebase&logoColor=white)
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-<br />
-
----
-
-<div align="center" style="display: flex;">
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvez44&theme=react&border=61dafb&hide_border=true" alt="siamparvez44"/>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=siamparvez44&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </div>
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvez44&theme=react&hide_border=true"/>
-  </div>
 </div>
+<br>
 
 ---
+<br>
+<div align="center">
 
-### Get In Contact
+  ## My Streak Stats 	💪
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvez44&theme=react&border=61dafb&hide_border=true" alt="siamparvez44"/>
+</div>
+<br>
+
+---
+<br>
+
+
+<div align="center">
+
+  ## My Github Stats 	🦁
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=siamparvez44&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</div>
+<br>
+
+---
+<br>
+
+<div align="center">
+
+### Get In Contact 📞
+
+<br>
+
 [![Gmail](https://img.shields.io/badge/%20-Gmail-black?color=DD4B3F&labelColor=DD4B3F&logo=gmail&logoColor=ffffff)][gmail]
 [![Skype](https://img.shields.io/badge/%20-Skype-black?color=01ACEC&labelColor=01ACEC&logo=skype&logoColor=ffffff)][skype]
 [![WhatsApp](https://img.shields.io/badge/%20-WhatsApp-black?color=46C755&labelColor=46C755&logo=whatsapp&logoColor=ffffff)][whatsapp]
@@ -68,5 +93,12 @@
 [whatsapp]: https://wa.me/8801521775979
 [gmail]: mailto:siamparvez44@gmail.com
 
+</div>
 
+<br>
+<br>
+<br>
+
+<div align="right">
 <a href="https://visitorbadge.io/status?path=siamparvez44"><img src="https://api.visitorbadge.io/api/visitors?path=siamparvez44&label=Visitors&labelColor=%23697689&countColor=%232ccce4"></a>
+</div>

@@ -1,5 +1,7 @@
 <head>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </head>
 <body>
   <h3 align="center">
@@ -44,9 +46,9 @@
   ---
 
   <div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvez44&theme=react&border=61dafb&hide_border=true" alt="siamparvez44"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siamparvez44&theme=react&border=61dafb&hide_border=true" alt="siamparvez44"/>
 
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=siamparvez44&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siamparvez44&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamparvez44&theme=react&hide_border=true"/>
 
@@ -68,6 +70,4 @@
 
 
   <a href="https://visitorbadge.io/status?path=siamparvez44"><img src="https://api.visitorbadge.io/api/visitors?path=siamparvez44&label=Visitors&labelColor=%23697689&countColor=%232ccce4"></a>
-
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>

@@ -1,7 +1,7 @@
-<h3 align="center">
-  Welcome to Siam Parvez's profile!
+<h1 align="center">
+  <b>Welcome to Siam Parvez's profile!</b>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=25AEF3&vCenter=true&size=25">

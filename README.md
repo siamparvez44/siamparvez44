@@ -75,16 +75,16 @@
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/%20-Gmail-black?color=DD4B3F&labelColor=DD4B3F&logo=gmail&logoColor=ffffff)][gmail]
-[![Skype](https://img.shields.io/badge/%20-Skype-black?color=01ACEC&labelColor=01ACEC&logo=skype&logoColor=ffffff)][skype]
-[![WhatsApp](https://img.shields.io/badge/%20-WhatsApp-black?color=46C755&labelColor=46C755&logo=whatsapp&logoColor=ffffff)][whatsapp]
-[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-black?color=0072b1&labelColor=0072b1&logo=linkedin&logoColor=ffffff)][linkedin]
-[![Instagram](https://img.shields.io/badge/%20-Instagram-black?color=C32AA3&labelColor=C32AA3&logo=instagram&logoColor=ffffff)][instagram]
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
+[![Facebook](https://img.shields.io/badge/Facebook-01ACEC?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-46C755?style=for-the-badge&logo=whatsapp&logoColor=white)][whatsapp]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-C32AA3?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 [instagram]: https://www.instagram.com/siamparvez44
 [linkedin]: https://www.linkedin.com/in/siamparvez44
 [github]: https://github.com/siamparvez44
-[skype]: https://join.skype.com/invite/XuI8l9hL25iD
+[facebook]: https://www.facebook.com/siamparvez44
 [whatsapp]: https://wa.me/8801521775979
 [gmail]: mailto:siamparvez44@gmail.com
 

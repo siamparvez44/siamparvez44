@@ -85,7 +85,7 @@
 [linkedin]: https://www.linkedin.com/in/siamparvez44
 [github]: https://github.com/siamparvez44
 [facebook]: https://www.facebook.com/siamparvez44
-[whatsapp]: https://wa.me/8801521775979
+[whatsapp]: https://wa.me/8801706176979
 [gmail]: mailto:siamparvez44@gmail.com
 
 </div>

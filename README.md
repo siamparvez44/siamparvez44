@@ -74,16 +74,10 @@
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
-[![Facebook](https://img.shields.io/badge/Facebook-01ACEC?style=for-the-badge&logo=facebook&logoColor=white)][facebook]
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-46C755?style=for-the-badge&logo=whatsapp&logoColor=white)][whatsapp]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Instagram](https://img.shields.io/badge/Instagram-C32AA3?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
-[instagram]: https://www.instagram.com/siamparvez44
 [linkedin]: https://www.linkedin.com/in/siamparvez44
 [github]: https://github.com/siamparvez44
-[facebook]: https://www.facebook.com/siamparvez44
-[whatsapp]: https://wa.me/8801706176979
 [gmail]: mailto:siamparvez44@gmail.com
 
 </div>

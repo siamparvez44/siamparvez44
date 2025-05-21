@@ -4,12 +4,11 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=25AEF3&vCenter=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20web%20developer;Experienced%20UI%2FUX%20Designer;4%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=25AEF3&vCenter=true&size=25">
 </p>
 
 <div align="center">
   < 👀 I’m interested in new and creative application development. /><br>
-  < 😎 I’m performing as the Chief Innovation Officer at <a href="https://siams.co/" target="_blank">Siams Corporation</a>. /><br>
   < 💞️ I’m looking to collaborate on awesome projects! /><br>
   < 📫 Contact me - <a href="mailto:siamparvez44@gmail.com">siamparvez44@gmail.com</a> />
 <br>
